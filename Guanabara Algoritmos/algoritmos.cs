@@ -1,8 +1,8 @@
-/** Algoritmos são passos a serem seguidos por um 
+/* Algoritmos são passos a serem seguidos por um 
 módulo processador e seus respectivos usuários que, quando executados 
 na ordem correta conseguem realizar determinada tarefa. */
 
-/**Identificadores
+/*Identificadores
 1- Deve começar com uma letra
 2- Os próximos podem ser letras ou números
 3- Não pode utilizar nenhum símbolso, exceto [ _ ]
