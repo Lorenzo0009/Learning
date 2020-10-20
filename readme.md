@@ -1,6 +1,6 @@
 
 <h3> Codes and Codes and Coffee..!</h3>
-estudos baseados em conhecimento gerais e pesquisa na web 
+Estudos baseados em conhecimento gerais e pesquisa na web 
 Principal fonte de conhecimento o canal do Youtube - [Curso em Vídeo]
 <div style={flex-direction: row}>
 
