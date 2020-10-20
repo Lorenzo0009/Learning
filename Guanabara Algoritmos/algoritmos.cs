@@ -8,10 +8,18 @@ Identificadores
 3 Não pode utilizar nenhum símbolso, exceto [ _ ]
 4 Não pode conter espaços em branco
 5 Não pode conter letras com acentos
-6 Não pode conter nenhuma palavra reserva (variavel ou nome de métodos)
+6 Não pode conter nenhuma palavra reserva (variável ou nome de métodos)
 
 [Nota1] é uma varíavel ✅
-[Média] não é uma varíavel ❌ (pois feri alguma das regras de criação de variaveis)
+[Média] não é uma varíavel ❌ (pois feri alguma das regras de criação de variáveis)
 
 
 */
+
+using System;
+
+class Algoritmos {
+    static void main(string[] args) {
+        
+    }
+}
